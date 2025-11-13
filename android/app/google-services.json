@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270018592041",
+    "project_id": "flutter-testing-alvin",
+    "storage_bucket": "flutter-testing-alvin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270018592041:android:53d985f03a0a4dc28d0b38",
+        "android_client_info": {
+          "package_name": "com.example.flutter_testing_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBqTEYHdBV3lnwPdVH44pwQv0JIz7jzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270018592041:android:8907d55e715b59618d0b38",
+        "android_client_info": {
+          "package_name": "com.fluttertest.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHBqTEYHdBV3lnwPdVH44pwQv0JIz7jzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
