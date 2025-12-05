@@ -48,7 +48,7 @@ class ButtonStylingPage extends StatelessWidget {
             /// OutlinedButton - button with border
             OutlinedButton(
               onPressed: () {},
-              child: const Text('Outlined Button'),
+              child: const Text('Outlined Button Default 12345'),
             ),
 
             const SizedBox(height: 20),
