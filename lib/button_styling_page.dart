@@ -83,7 +83,7 @@ class ButtonStylingPage extends StatelessWidget {
                   vertical: 14,
                 ),
               ),
-              child: const Text('Styled Text Button Testing 123'),
+              child: const Text('Styled Text Button Testing 123 12897213786'),
             ),
 
             const SizedBox(height: 20),
